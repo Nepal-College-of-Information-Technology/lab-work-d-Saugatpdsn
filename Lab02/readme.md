@@ -184,7 +184,12 @@ Used to:
 ### Output
 Through the URl provided by the AWS instance we can get and post the values by visiting that site using the URl.
 
-
+![EC2](images/image1.png)
+![EC2](images/image2.png)
+![EC2](images/image3.png)
+![EC2](images/image4.png)
+![EC2](images/image5.png)
+![EC2](images/image6.png)
 
 ### Conclusion
 From this lab ,we came to know about AWS  instance through which the code is executed and URL provided by that instance can be visted and we can get and post the values.
